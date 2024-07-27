@@ -1,0 +1,20 @@
+{
+  "short_name": "Lucianos",
+  "name": "Lucianos Services",
+  "icons": [
+    {
+      "src": "faviconpro.svg",
+      "sizes": "any",
+      "type": "image/sbg+-xml"
+    },
+    {
+      "src":"favicon.ico",
+      "sizes":"64x64",
+      "type":"image/x-icon"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#4a4d53",
+  "background_color": "#4a4d53"
+}

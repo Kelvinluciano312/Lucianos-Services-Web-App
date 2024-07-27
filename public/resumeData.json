@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name":"Luciano's Services",
+    "description":"We’re more than happy to offer you the best quality. Stay connected with us on social media to keep up with our latest updates!",
+    "image":"logoPro.png",
+    "bio":"Luciano's Services is dedicated to delivering the ideal product to the right customer. Founded nearly 15 years ago in New Haven, Connecticut, we now operate extensively in Texas (Austin and surrounding areas) and Connecticut (New Haven and Fairfield Counties). Our mission is to understand our clients' needs and provide the highest quality service possible.",
+    "contactmessage":"We are certfied and approved",
+    "email": "lucianosservices@gmail.com",
+    "phone": "203-526-4271",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://www.instagram.com/lucianoshomeimprovements/",
+    "address":{
+      "street":"1800 Plateau Vista Blvd",
+      "city":"Round Rock",
+      "state":"Texas",
+      "zip": "78664"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"tel:2035264271",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "degree":"Premier Windows Installation Services",
+        "description":"Our team is committed deliver exceptional window installation services. Equipped with skilled professionals, we offer installation of a diverse range of window types, coupled with excellent customer service. Operating with maximum efficiency, we serve the Austin area in Texas and its surroundings, ensuring a seamless experience from start to finish."
+      }
+    ],
+    "work":[
+      {
+        "title":"Expert Flooring Services Available",
+        "description":"Our skilled team is equipped to handle flooring installations across both Texas and Connecticut. With years of experience in installing hardwood and vinyl floors, flooring services are a proud part of our legacy. We're committed to delivering quality and craftsmanship in every project."
+      }
+    ],
+    "skills":[
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
