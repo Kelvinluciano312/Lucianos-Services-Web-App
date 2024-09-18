@@ -62,7 +62,7 @@ class Resume extends Component {
               <h1>
                 <span>Windows</span>
               </h1>
-              <div className="Port1"><img src="images/img.jpg" alt="Italian Trulli"></img></div>
+              <div className="Port1"><img src="images/Windows.jpg" alt="Italian Trulli"></img></div>
             </div>
 
             <div className="nine columns main-col">
@@ -79,7 +79,7 @@ class Resume extends Component {
               <h1>
                 <span>Flooring work</span>
               </h1>
-              <div className="Port2"><img src="images/img.jpg" alt="Italian Trulli"></img></div>
+              <div className="Port2"><img src="images/Flooring.jpg" alt="Italian Trulli"></img></div>
             </div>
 
             <div className="nine columns main-col">{work}</div>
@@ -92,7 +92,7 @@ class Resume extends Component {
               <h1>
                 <span>Home Finishing</span>
               </h1>
-              <div className="Port1"><img src="images/img.jpg" alt="Italian Trulli"></img></div>
+              <div className="Port1"><img src="images/Finishes.jpg" alt="Italian Trulli"></img></div>
             </div>
 
             <div className="nine columns main-col">

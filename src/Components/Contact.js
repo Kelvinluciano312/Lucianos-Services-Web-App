@@ -17,12 +17,6 @@ class Contact extends Component {
       <section id="contact">
         <Fade bottom duration={1000}>
           <div className="row section-head">
-            <div className="two columns header-col">
-              <h1>
-                <span>Certifications and Partenerships.</span>
-              </h1>
-            </div>
-
             <div className="ten columns">
               <p className="lead">{message}</p>
             </div>

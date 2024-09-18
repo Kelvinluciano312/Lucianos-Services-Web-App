@@ -41,4 +41,7 @@
   .background-video::media-controls {
     display: none !important;
   }
-  
+
+  body, html {
+    overflow-x: hidden;
+}

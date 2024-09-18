@@ -1,20 +1,20 @@
 import React, { Component } from "react";
 import Zmage from "react-zmage";
-import Fade from "react-reveal";
 
-let id = 0;
 class Portfolio extends Component {
   render() {
-    if (!this.props.data) return null;
+    const { data } = this.props;
+    if (!data) return null;
 
-    const projects = this.props.data.projects.map(function (projects) {
-      let projectImage = "images/portfolio/" + projects.image;
-
+    const projects = data.projects.map((project, index) => {
+      const projectImage = "images/portfolio/" + project.image;
       return (
-        <div key={id++} className="columns portfolio-item">
+        <div key={index} className="columns portfolio-item">
           <div className="item-wrap">
-            <Zmage alt={projects.title} src={projectImage} />
-            <div style={{ textAlign: "center" }}>{projects.title}</div>
+            <Zmage alt={project.title} src={projectImage} />
+            <div style={{ textAlign: "center", marginTop: "10px" }}>
+              {project.title}
+            </div>
           </div>
         </div>
       );
@@ -22,20 +22,17 @@ class Portfolio extends Component {
 
     return (
       <section id="portfolio">
-        <Fade left duration={1000} distance="40px">
-          <div className="row">
-            <div className="twelve columns collapsed">
-              <h1>Check Out Some of Our Works.</h1>
-
-              <div
-                id="portfolio-wrapper"
-                className="bgrid-quarters s-bgrid-thirds cf"
-              >
-                {projects}
-              </div>
+        <div className="row">
+          <div className="twelve columns collapsed">
+            <h1>Check Out Some of Our Works</h1>
+            <div
+              id="portfolio-wrapper"
+              className="bgrid-quarters s-bgrid-thirds cf"
+            >
+              {projects}
             </div>
           </div>
-        </Fade>
+        </div>
       </section>
     );
   }

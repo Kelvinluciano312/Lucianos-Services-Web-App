@@ -4,10 +4,10 @@
     "description":"We’re more than happy to offer you the best quality. Stay connected with us on social media to keep up with our latest updates!",
     "image":"logoPro.png",
     "bio":"Luciano's Services is dedicated to delivering the ideal product to the right customer. Founded nearly 15 years ago in New Haven, Connecticut, we now operate extensively in Texas (Austin and surrounding areas) and Connecticut (New Haven and Fairfield Counties). Our mission is to understand our clients' needs and provide the highest quality service possible.",
-    "contactmessage":"We are certfied and approved",
+    "contactmessage":"Feel Free to contact us:",
     "email": "lucianosservices@gmail.com",
     "phone": "203-526-4271",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"https://www.linkedin.com/",
     "project":"https://www.instagram.com/lucianoshomeimprovements/",
     "address":{
       "street":"1800 Plateau Vista Blvd",
@@ -20,23 +20,23 @@
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/lucianosflooris/",
         "className":"fa fa-facebook"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/lucianoshomeimprovements/",
         "className":"fa fa-instagram"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"At Luciano's Services we offer a wide range of home finishing services, including bathroom installations, custom carpentry, and interior finishing. With years of experience under our belt, we're dedicated to providing the highest level of service to meet your needs. Don't hesitate to contact us for any project—big or small. We're here to help turn your vision into reality.",
     "education":[
       {
         "degree":"Premier Windows Installation Services",
@@ -55,76 +55,52 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Lead Preparation",
+        "category":"Lead Job",
+        "image":"Win1.jpg",
+        "url":""
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Three Panels Installation",
+        "category":"",
+        "image":"Win2.jpg",
+        "url":""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Building Scaffolding",
+        "category":"",
+        "image":"Win3.jpg",
+        "url":""
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Slide Door Installation",
+        "category":"",
+        "image":"Win4.jpg",
+        "url":""
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Sanding Floors",
+        "category":"",
+        "image":"Flors1.jpg",
+        "url":""
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Staining Floors",
+        "category":"",
+        "image":"Flors2.jpg",
+        "url":""
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"New Marble Floors",
+        "category":"",
+        "image":"Flors3.jpg",
+        "url":""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Buiding a Deck",
+        "category":"",
+        "image":"Flors.png",
+        "url":""
       }
     ]
   }
