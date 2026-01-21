@@ -34,6 +34,7 @@ This project has been an excellent learning opportunity, and I'm excited to take
 
 ## Demo
 Feel free to test the website: https://lucianoservices.com/
+or here: https://941fd915.lucianos-services-web-app.pages.dev/
 
 ---
 
