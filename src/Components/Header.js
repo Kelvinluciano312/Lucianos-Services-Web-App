@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
 import { Parallax } from "react-parallax";
-import 'C:/Users/kelvi/Downloads/react-nice-resume-master/src/App.css'; // Ensure the correct path to your CSS file
+import '../App.css'; // Ensure the correct path to your CSS file
 
 
 class Header extends Component {
