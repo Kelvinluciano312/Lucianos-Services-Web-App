@@ -3,7 +3,7 @@
 ✨ **Luciano's Services PWA** ✨
 
 ## Overview
-I am proud to announce the successful development, hosting, and sale of my first professional website. This project provided valuable experience in web development and cloud infrastructure management, specifically utilizing AWS services such as **S3 Buckets**, **CloudFront**, and **Route 53**.
+I am proud to announce the successful development, hosting, and sale of my first professional website. This project provided valuable experience in web development and cloud infrastructure management, specifically utilizing AWS services such as **S3 Buckets**, **CloudFront**, and **Route 53**. (Later I deploied on cloudflare for visuals only.)
 
 Additionally, this was my first fully responsive **Progressive Web Application (PWA)**, built with **React**. I took on the full lifecycle of the project, from purchasing the domain to handling hosting, with the goal of creating a simple yet elegant presentation site to showcase the client’s goals and services. I believe I successfully achieved this objective while gaining practical knowledge along the way.
 
